@@ -23,3 +23,16 @@
 [COLOR deeppink]|[/COLOR] - PREMIERE PFC TV AO VIVO - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR indigo]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]SPORTV[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR indigo]|[/COLOR]</name>
+<thumbnail>https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tavzera1/playerTV/master/premierepfc</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - SPORT TV AO VIVO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
