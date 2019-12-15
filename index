@@ -36,3 +36,16 @@
 [COLOR deeppink]|[/COLOR] - SPORT TV AO VIVO - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR indigo]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]FOX SPORT[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR indigo]|[/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tavzera1/playerTV/master/sportv</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FOX SPORT AO VIVO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
