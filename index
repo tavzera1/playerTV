@@ -49,3 +49,16 @@
 [COLOR deeppink]|[/COLOR] - FOX SPORT AO VIVO - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR indigo]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]COMBATE [/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR indigo]|[/COLOR]</name>
+<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220</thumbnail>
+<externallink>https://raw.githubusercontent.com/tavzera1/playerTV/master/combate</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - CANAL COMBATE AO VIVO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
