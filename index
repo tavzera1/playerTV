@@ -10,29 +10,3 @@
 [COLOR deeppink]|[/COLOR] - CANAIS DE TV AO VIVO - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
-
-<channels>
-<channel>
-<name>[COLOR indigo]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR indigo]|[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - LISTA DE FILMES - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR indigo]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR indigo]|[/COLOR]</name>
-<thumbnail>http://inn.spb.ru/images/500/DSC100506537.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>http://inn.spb.ru/images/500/DSC100506537.png</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - LISTA DE SERIES - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
