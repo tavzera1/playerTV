@@ -1,6 +1,19 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]TV AO VIVO[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR indigo]|[/COLOR]</name>
+<name>[COLOR indigo]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR indigo]|[/COLOR]</name>
+<thumbnail>https://www.pngfind.com/pngs/m/58-588641_sky-brasil-servios-ltda-hd-png-download.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tavzera1/playerTV/master/channels</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - CANAIS DE TV AO VIVO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR indigo]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]PREMIERE PFC[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR][COLOR indigo]|[/COLOR]</name>
 <thumbnail>https://www.pngfind.com/pngs/m/58-588641_sky-brasil-servios-ltda-hd-png-download.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tavzera1/playerTV/master/channels</externallink>
 <fanart></fanart>
